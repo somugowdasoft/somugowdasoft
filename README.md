@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** who loves building scalable and efficient web applications. Check out my portfolio to explore my projects! 🚀
 
 ## 🌐 Portfolio
-[**Visit My Portfolio**](https://app.netlify.com/sites/marvelous-biscotti-cd3442/)
+[**Visit My Portfolio**](https://marvelous-biscotti-cd3442.netlify.app/)
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Somashekar_S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/somashekar-s-38b434214/)
